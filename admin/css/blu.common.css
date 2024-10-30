@@ -1,0 +1,43 @@
+.blu-badge {
+    color: #555;
+    font-size: 1.1em;
+    line-height: 1.2em;
+    padding: 0 10px;
+    font-weight: 700;
+    border: solid 1px #d9d9d9;
+    background-color: #fff;
+    margin-left: .4em;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+#resend-error {
+    color: #dc3232!important;
+}
+.resend-btn {
+    display: inline-block;
+    width: 100px;
+    padding: 5px;
+    background-color: #d4d1d1;
+    font-weight: 400;
+    color: #565454;
+    text-align: center;
+    cursor: pointer;
+}
+.left-margin {
+    margin-left: 5px!important;
+}
+.blu-options-wrap  .label-radio {
+    font-weight: 400;
+    font-size: 13px;
+    color: #666;
+}
+.errorMsgs * {
+    color: #f00;
+}
+.has-error {
+    background-color: rgba(255, 0, 0, 0.15);
+}
+.has-error input {
+    color: #f00;
+    border-color: #f00;
+}
